@@ -22,3 +22,5 @@ void print_list(const listint_t *list);
 
 /* main functions */
 void bubble_sort(int *array, size_t size);
+
+#endif
